@@ -1,0 +1,129 @@
+<ui version="4.0" >
+ <class>F_VeriAktar</class>
+ <widget class="QDialog" name="F_VeriAktar" >
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>428</width>
+    <height>307</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Veri Aktarma</string>
+  </property>
+  <property name="windowIcon" >
+   <iconset>../../../../../../usr/kde/3.5/share/icons/crystalsvg/32x32/actions/svn_branch.png</iconset>
+  </property>
+  <layout class="QGridLayout" >
+   <property name="leftMargin" >
+    <number>9</number>
+   </property>
+   <property name="topMargin" >
+    <number>9</number>
+   </property>
+   <property name="rightMargin" >
+    <number>9</number>
+   </property>
+   <property name="bottomMargin" >
+    <number>9</number>
+   </property>
+   <property name="horizontalSpacing" >
+    <number>6</number>
+   </property>
+   <property name="verticalSpacing" >
+    <number>6</number>
+   </property>
+   <item row="3" column="0" colspan="3" >
+    <widget class="QPushButton" name="pBAktar" >
+     <property name="text" >
+      <string>Ak&amp;tar</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="2" >
+    <widget class="QToolButton" name="tBHedefDosya" >
+     <property name="text" >
+      <string>...</string>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="0" >
+    <widget class="QLabel" name="label_3" >
+     <property name="toolTip" >
+      <string>kelimelerin hangi bolume ekleneceği.(örneğin kpds bölümü)</string>
+     </property>
+     <property name="text" >
+      <string>Hangi Bölüm :</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0" >
+    <widget class="QLabel" name="label_2" >
+     <property name="toolTip" >
+      <string>Kelimelerin içinde bulunduğu veri dosyası</string>
+     </property>
+     <property name="text" >
+      <string>Kaynak Dosya Adı:</string>
+     </property>
+     <property name="buddy" >
+      <cstring>leKaynakDosya</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="2" column="1" >
+    <widget class="QLineEdit" name="leYeniBolum" />
+   </item>
+   <item row="1" column="1" >
+    <widget class="QLineEdit" name="leKaynakDosya" />
+   </item>
+   <item row="1" column="2" >
+    <widget class="QToolButton" name="tBKaynakDosya" >
+     <property name="text" >
+      <string>...</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="0" >
+    <widget class="QLabel" name="label" >
+     <property name="toolTip" >
+      <string>Oluşturulacak Veri Dosyası Bu Olacak.</string>
+     </property>
+     <property name="text" >
+      <string>Hedef Dosya Adı :</string>
+     </property>
+     <property name="buddy" >
+      <cstring>leHedefDosya</cstring>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="1" >
+    <widget class="QLineEdit" name="leHedefDosya" />
+   </item>
+   <item row="4" column="0" colspan="3" >
+    <widget class="QTextEdit" name="textEdit" >
+     <property name="html" >
+      <string>&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Sans Serif'; font-size:9pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:8pt; color:#a52a2a;">Hangi Bölüm&lt;/span>&lt;span style=" font-size:8pt;"> kısmına kelimelerinizin hangi bölüm (kpds gibi) altına ekleneceğini yazın.Eğer öyle bir bölüm yoksa oluşacaktır.&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;">&lt;span style=" font-weight:600; text-decoration: underline; color:#ff6347;">------------------------------------------------------------&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; font-weight:600; color:#ff6347;">&lt;span style=" font-weight:400; color:#191970;">Hedef dosyanız yoksa (*.imt) uzantılı olarak oluşacaktır.&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt;">&lt;span style=" font-weight:600; text-decoration: underline; color:#ff6347;">------------------------------------------------------------&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; font-weight:600; color:#ff6347;">&lt;span style=" text-decoration: underline;">Kaynak dosyanızın formatı şöyle olmalı:&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; font-weight:600; color:#ff6347;">&lt;span style=" color:#4682b4;">kelime &lt;/span>&lt;span style=" color:#000000;">#&lt;/span> anlamı &lt;span style=" color:#000000;">#&lt;/span> &lt;span style=" color:#ff0000;">örnek&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; font-weight:600; color:#ff6347;">&lt;span style=" color:#4682b4;">kelime2&lt;/span> &lt;span style=" color:#000000;">#&lt;/span> anlamı2 &lt;span style=" color:#000000;">#&lt;/span> &lt;span style=" color:#ff0000;">örnek&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-size:8pt; font-weight:600; color:#ff0000;">&lt;span style=" color:#4682b4;">kelime &lt;/span>&lt;span style=" color:#000000;">#&lt;/span>&lt;span style=" color:#ff6347;"> anlamı &lt;/span>&lt;span style=" color:#000000;">#&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600; color:#ff0000;">&lt;span style=" font-size:7pt;"> *Eğer örnek cümleniz yoksa "#" bırakmak koşulu ile yazmayabilirsiniz.&lt;/span>&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600; color:#000000;">&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-weight:600; color:#ff6347;">&lt;/p>&lt;/body>&lt;/html></string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="PnG/ikonlar.qrc" />
+ </resources>
+ <connections/>
+</ui>

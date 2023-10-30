@@ -1,0 +1,3525 @@
+<!DOCTYPE IMTIHAN_USER_DATA>
+<DATAROOT>
+ <Grup1>
+  <kelime>
+   <soru>wage</soru>
+   <cevap>(savaş,mücadele) sürdürmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>repeal</soru>
+   <cevap>feshetmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>be about to</soru>
+   <cevap>-mek üzere olmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>evolve</soru>
+   <cevap>gelişmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>look up to</soru>
+   <cevap>saygı göstermek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>compensate for</soru>
+   <cevap>telafi etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>suppress</soru>
+   <cevap>bir hareketi bastırmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>deplete</soru>
+   <cevap>tüketmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>stick by</soru>
+   <cevap>desteklemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>resign</soru>
+   <cevap>istifa etmek, çekilmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>devise</soru>
+   <cevap>keşfetmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>turn out</soru>
+   <cevap>kanıtlamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>retard</soru>
+   <cevap>geciktirmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>undergo</soru>
+   <cevap>maruz kalmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>induce</soru>
+   <cevap>ikna etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>breed</soru>
+   <cevap>sebeb olmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>entail</soru>
+   <cevap>gerektirmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>comprise</soru>
+   <cevap>-den oluşmak, oluşturmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>curb</soru>
+   <cevap>zaptetmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>exploit</soru>
+   <cevap>sömürmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>commence</soru>
+   <cevap>başlamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>commend</soru>
+   <cevap>salık vermek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prosper</soru>
+   <cevap>zenginleşmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prompt</soru>
+   <cevap>sebeb olmak, dakik</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>outweigh</soru>
+   <cevap>daha önemli olmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>compel</soru>
+   <cevap>zorlamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>undermine</soru>
+   <cevap>zarar vermek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>attain</soru>
+   <cevap>ulaşmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>foster</soru>
+   <cevap>beslemek, büyütmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>shrink</soru>
+   <cevap>küçülmek,daralmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>spoil</soru>
+   <cevap>bozmak,yıkmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prevail</soru>
+   <cevap>yürürlükte olmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>ascribe</soru>
+   <cevap>atfetmek, isnat etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>retain</soru>
+   <cevap>alıkoymak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>lay off</soru>
+   <cevap>işten çıkarmak</cevap>
+   <ornek/>
+  </kelime>
+ </Grup1>
+ <Grup2>
+  <kelime>
+   <soru>curtail</soru>
+   <cevap>azaltmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>exert</soru>
+   <cevap>güç kullanmak, çaba sarfetmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>alleviate</soru>
+   <cevap>yatıştırmak, hafifletmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>annul</soru>
+   <cevap>feshetmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>discern</soru>
+   <cevap>idrak etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>appraise</soru>
+   <cevap>değer biçmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>aggravate</soru>
+   <cevap>kütüleştirmek, ağırlaştırmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>augment</soru>
+   <cevap>artmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>adhere</soru>
+   <cevap>yapışmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>contract</soru>
+   <cevap>küçülmek, büzülmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>dwell on/upon</soru>
+   <cevap>çok düşünmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>endorse</soru>
+   <cevap>desteklemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>sustain</soru>
+   <cevap>güçlü tutmak, devam ettirmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>pertain</soru>
+   <cevap>ile ilgili</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>exploit</soru>
+   <cevap>istismar etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>preculude</soru>
+   <cevap>engellemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>scatter</soru>
+   <cevap>dağıtmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>jeopardize</soru>
+   <cevap>tehlikeye atmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>pledge</soru>
+   <cevap>güvence vermek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>bind</soru>
+   <cevap>yasalarla bağlamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>offset</soru>
+   <cevap>dengelemek, telafi etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>extol</soru>
+   <cevap>övmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>imperil</soru>
+   <cevap>tehlikeye sokmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>admonish</soru>
+   <cevap>hafifçe azarlamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>aspire</soru>
+   <cevap>çok istemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>devour</soru>
+   <cevap>hırsla yemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>evict</soru>
+   <cevap>tahliye ettirmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>recruit</soru>
+   <cevap>işe almak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>unanimous</soru>
+   <cevap>hemfikir</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>acquaint</soru>
+   <cevap>haberdar etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>assault</soru>
+   <cevap>ani hücum</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>flactuate</soru>
+   <cevap>bir yükselip, bir azalmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>dwindle</soru>
+   <cevap>azalmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>indulge</soru>
+   <cevap>yüz vermek, şımartmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>consent</soru>
+   <cevap>razı olmak</cevap>
+   <ornek/>
+  </kelime>
+ </Grup2>
+ <Grup3>
+  <kelime>
+   <soru>crave</soru>
+   <cevap>çok istemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>relinguish</soru>
+   <cevap>vazgeçmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>reluctant</soru>
+   <cevap>isteksiz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>district</soru>
+   <cevap>mıntıka, bölge</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>sort</soru>
+   <cevap>çeşit</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>outsmart</soru>
+   <cevap>kurnazlıkla yenmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>range</soru>
+   <cevap>tür, çeşit</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>substance</soru>
+   <cevap>madde</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>approval</soru>
+   <cevap>uygun bulma, onaylama</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>manner</soru>
+   <cevap>davranış şekli</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>swift</soru>
+   <cevap>hızlı atik</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>reputation</soru>
+   <cevap>şöhret</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>impetus</soru>
+   <cevap>yüreklendirme</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>preference</soru>
+   <cevap>öncelik hakkı</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>onset</soru>
+   <cevap>(kötü birşey için) başlangıç</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>defiance</soru>
+   <cevap>itaatsizlik</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>disobediance</soru>
+   <cevap>itaatsizlik</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>inclination</soru>
+   <cevap>eğilim</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>anguish</soru>
+   <cevap>şiddetli ıstırap</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>humidity</soru>
+   <cevap>havadaki nem</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>extent</soru>
+   <cevap>kapsam, ölçü</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>gratify</soru>
+   <cevap>sevindirmek, mutlu etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prospect</soru>
+   <cevap>olasılık, umut</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>advent</soru>
+   <cevap>varış, geliş</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>inconceivable</soru>
+   <cevap>hayal edilemez</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>trait</soru>
+   <cevap>özellik, karakter</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>discreation</soru>
+   <cevap>sağduyu</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>haste</soru>
+   <cevap>acele, telaş</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>discrepancy</soru>
+   <cevap>uyumsuzluk</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>predicament</soru>
+   <cevap>zor durum</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>epoch</soru>
+   <cevap>çağ</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>bless</soru>
+   <cevap>kutsamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>substantiate</soru>
+   <cevap>kanıtlamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>allegation</soru>
+   <cevap>suçlama, itham</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>compromise</soru>
+   <cevap>uzlaşma</cevap>
+   <ornek/>
+  </kelime>
+ </Grup3>
+ <Grup4>
+  <kelime>
+   <soru>summit</soru>
+   <cevap>zirve, doruk</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>bold</soru>
+   <cevap>cesur</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>reciprocal</soru>
+   <cevap>karşılıklı</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>slack</soru>
+   <cevap>gevşek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>nonsencial</soru>
+   <cevap>saçma, anlamsız</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>unprecedented</soru>
+   <cevap>emsalsiz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>unequalled</soru>
+   <cevap>emsalsiz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>imperative</soru>
+   <cevap>zorunlu</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>moderate</soru>
+   <cevap>ılımlı, makul</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>compulsory</soru>
+   <cevap>zorunlu</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>haphazard</soru>
+   <cevap>plansız</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>nasty</soru>
+   <cevap>iğrenç</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>decent</soru>
+   <cevap>münasip, uygun</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>lasting</soru>
+   <cevap>kalıcı, dayanıklı</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>peculiar to</soru>
+   <cevap>özgü, mahsus</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>precise</soru>
+   <cevap>kesin, kusursuz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>apt</soru>
+   <cevap>eğilimli, yatkın</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>obsolete</soru>
+   <cevap>modası geçmiş</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>plausible</soru>
+   <cevap>inandırıcı</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prone</soru>
+   <cevap>-e dayanıksız</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>susceptible</soru>
+   <cevap>kolay etkilenen</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>relieve</soru>
+   <cevap>acı dindirmek, hafifletmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>acute</soru>
+   <cevap>keskin, kuvvetli</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>adverse</soru>
+   <cevap>karşıt, zıt</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>robust</soru>
+   <cevap>sıhhatli, güçlü</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>viable</soru>
+   <cevap>uygulanabilir</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>painstaking</soru>
+   <cevap>özenli</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>impending</soru>
+   <cevap>olması yakın</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>miser</soru>
+   <cevap>cimri</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>concise</soru>
+   <cevap>kısa, özlü</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>adept</soru>
+   <cevap>becerikli</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>thrilling</soru>
+   <cevap>heyecan verici</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>inherent</soru>
+   <cevap>doğasında olan</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>irrevacable</soru>
+   <cevap>değiştirilemez</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>ingenius</soru>
+   <cevap>ustaca</cevap>
+   <ornek/>
+  </kelime>
+ </Grup4>
+ <Grup5>
+  <kelime>
+   <soru>harmonious</soru>
+   <cevap>uyumlu, ahenkli</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>frugal</soru>
+   <cevap>tutumlu</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>vague</soru>
+   <cevap>anlaşılmaz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>austerity</soru>
+   <cevap>azla yetinme</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>inquisitive</soru>
+   <cevap>meraklı</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>immoral</soru>
+   <cevap>ahlaksız</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prolific</soru>
+   <cevap>verimli</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>intricate</soru>
+   <cevap>karmakarışık</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>adroit</soru>
+   <cevap>yetenekli</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>commensurate</soru>
+   <cevap>oranlı, eşit</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>possess</soru>
+   <cevap>sahip olmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>detrimental</soru>
+   <cevap>zarar verici</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>retreat</soru>
+   <cevap>geri çekilme</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>infallible</soru>
+   <cevap>şaşmaz, yanılmaz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>incompotent</soru>
+   <cevap>yeteneksiz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>conducive</soru>
+   <cevap>olanak sağlayan</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>adept</soru>
+   <cevap>yetenekli</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>minute</soru>
+   <cevap>çok küçük</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>virtually</soru>
+   <cevap>hemen hemen</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>practically</soru>
+   <cevap>hemen hemen</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>literally</soru>
+   <cevap>kelimesi kelimesine</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>scrupulous</soru>
+   <cevap>adil, titiz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>exclusively</soru>
+   <cevap>sadece, yalnız</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>expedition</soru>
+   <cevap>yolculuk</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>ardently</soru>
+   <cevap>gayretle, şevkle</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>awkward</soru>
+   <cevap>sakar, beceriksiz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>dense</soru>
+   <cevap>sıkışık, kalabalık</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>unequivocal</soru>
+   <cevap>net, anlaşılır</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>flesh</soru>
+   <cevap>et, vücut</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>imperfect</soru>
+   <cevap>kusurlu</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prune</soru>
+   <cevap>budamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>adopt</soru>
+   <cevap>benimsemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>unconscious</soru>
+   <cevap>bilinçsiz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prairie</soru>
+   <cevap>ova</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>perplex</soru>
+   <cevap>kafasını karıştırmak</cevap>
+   <ornek/>
+  </kelime>
+ </Grup5>
+ <Grup6>
+  <kelime>
+   <soru>entice</soru>
+   <cevap>kandırmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>predispose</soru>
+   <cevap>etkilemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>enervate</soru>
+   <cevap>kuvvetten düşürmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>tempt</soru>
+   <cevap>ayartmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>repel</soru>
+   <cevap>geri püskürtmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>repulse</soru>
+   <cevap>geri çevirmek, redetmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>acquit</soru>
+   <cevap>suçsuz çıkarmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>alienate</soru>
+   <cevap>yabancılaştırmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>rebuke</soru>
+   <cevap>azarlamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>escalation</soru>
+   <cevap>artırma</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>depletion</soru>
+   <cevap>tüketme, bitirme</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>soar</soru>
+   <cevap>yükselmek(fiyat)</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>baffle</soru>
+   <cevap>şaşırtmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>nurture</soru>
+   <cevap>büyütmek, yetiştirmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>offspring</soru>
+   <cevap>çoluk çoçuk</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>inattentive</soru>
+   <cevap>dikkatsiz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>manifest</soru>
+   <cevap>ortaya koymak, göstermek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>seclude</soru>
+   <cevap>inzivaya çekmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>suffice</soru>
+   <cevap>yeterli olmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>evade</soru>
+   <cevap>kaytarmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>decline</soru>
+   <cevap>redetmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>moist</soru>
+   <cevap>rutubetli</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>damp</soru>
+   <cevap>nemli</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>indisputable</soru>
+   <cevap>tartışılmaz, kesin</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>devastate</soru>
+   <cevap>harap etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>adjourn</soru>
+   <cevap>ertelemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>scepticisim</soru>
+   <cevap>şüphecilik</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>notwithstanding</soru>
+   <cevap>-e rağmen</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>impediment</soru>
+   <cevap>özür, engel</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>detriment</soru>
+   <cevap>zarar, hasar</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>articulate</soru>
+   <cevap>anlaşılır</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>elude</soru>
+   <cevap>tehlikeyi atlatmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>wrath</soru>
+   <cevap>gazap, öfke</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>dispose</soru>
+   <cevap>başından atmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>apathetic</soru>
+   <cevap>duyarsız</cevap>
+   <ornek/>
+  </kelime>
+ </Grup6>
+ <Grup7>
+  <kelime>
+   <soru>indicate</soru>
+   <cevap>belirtisi olmak, göstermek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>indiffirent</soru>
+   <cevap>ilgisiz</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>bewilder</soru>
+   <cevap>şaşırtmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>amuse</soru>
+   <cevap>eğlendirmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>intimidate</soru>
+   <cevap>gözdağı vermek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>flounder</soru>
+   <cevap>bocalamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>gist</soru>
+   <cevap>ana fikir</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>hoax</soru>
+   <cevap>gırgır geçmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>strenuous</soru>
+   <cevap>yorucu</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>treacherous</soru>
+   <cevap>hain, dönek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>arduous</soru>
+   <cevap>yorucu, çetin</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>envious</soru>
+   <cevap>kıskanç</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>intrude</soru>
+   <cevap>davetsiz girmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>induce</soru>
+   <cevap>ikna etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>entice</soru>
+   <cevap>ayartmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>tacit</soru>
+   <cevap>söylenmeden anlaşılan</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>illicit</soru>
+   <cevap>yasadışı</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>recite</soru>
+   <cevap>ezberden okumak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>fraud</soru>
+   <cevap>sahtekarlık</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>penalize</soru>
+   <cevap>cezalandırmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>rejuvenate</soru>
+   <cevap>gençleştirmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>intricate</soru>
+   <cevap>karmakarışık</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>conducive</soru>
+   <cevap>olanak sağlayan</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>pertinent</soru>
+   <cevap>uygun, ilgili</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>disguise</soru>
+   <cevap>saklamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>penetrate</soru>
+   <cevap>yarmak, delip geçmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>proposal</soru>
+   <cevap>teklif</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>impediment</soru>
+   <cevap>engel</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>phenomenon</soru>
+   <cevap>olay, olgu</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>drawback</soru>
+   <cevap>dezavantaj</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>inaugurate</soru>
+   <cevap>törenle açmak, başlamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>spark off</soru>
+   <cevap>neden olmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>preclude</soru>
+   <cevap>engellemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prudent</soru>
+   <cevap>öngörülü</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>allude</soru>
+   <cevap>ima etmek</cevap>
+   <ornek/>
+  </kelime>
+ </Grup7>
+ <Grup8>
+  <kelime>
+   <soru>enmity</soru>
+   <cevap>husumet</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>impartial</soru>
+   <cevap>tarafsız</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>account for</soru>
+   <cevap>açıklamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>recall</soru>
+   <cevap>anımsamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>sack</soru>
+   <cevap>işten atmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>reproach</soru>
+   <cevap>sitem etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>outstanding</soru>
+   <cevap>göze çarpan</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>wheat</soru>
+   <cevap>buğday</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>profound</soru>
+   <cevap>derin, bilgili</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>fallibility</soru>
+   <cevap>yanılma payı</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>impurity</soru>
+   <cevap>kirlilik, ahlaksızlık</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>burden</soru>
+   <cevap>ağır yük, sıkıntı vermek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>aptitude</soru>
+   <cevap>doğal yetenek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>competence</soru>
+   <cevap>yetenek, beceri</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>jealous</soru>
+   <cevap>kıskanç</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>envious</soru>
+   <cevap>kıskanç</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>affair</soru>
+   <cevap>ilişki, olay</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>drowsy</soru>
+   <cevap>uykulu</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>primitive</soru>
+   <cevap>ilkel</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>dull</soru>
+   <cevap>zor anlayan, yavaş düşünen</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>incidentally</soru>
+   <cevap>aklıma gelmişken</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>regret</soru>
+   <cevap>pişman olmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>flagrant</soru>
+   <cevap>alenen yapan(kötü birşey)</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>in advance</soru>
+   <cevap>zamanından önce, peşin</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>stern</soru>
+   <cevap>haşin, pupa</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>cling</soru>
+   <cevap>yapışmak, bırakmamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>expedition</soru>
+   <cevap>yolculuk, sefer</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>messy</soru>
+   <cevap>dağınık</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>affection</soru>
+   <cevap>sevgi, düşkünlük</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>infuriate</soru>
+   <cevap>çileden çıkarmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>irreparable</soru>
+   <cevap>telafisi olanaksız</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>subsidiary</soru>
+   <cevap>şube</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>brood</soru>
+   <cevap>kuluçkaya yatmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>brood over/about</soru>
+   <cevap>kara kara düşünmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>perilous</soru>
+   <cevap>tehlikeli, riskli</cevap>
+   <ornek/>
+  </kelime>
+ </Grup8>
+ <Grup9>
+  <kelime>
+   <soru>drastic</soru>
+   <cevap>güçlü, şiddetli</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>comprehensive</soru>
+   <cevap>geniş, ayrıntılı</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>reproach</soru>
+   <cevap>kınama, suçlama</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>intelligible</soru>
+   <cevap>anlaşılabilir, açık</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>pungent</soru>
+   <cevap>keskin kokulu</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>ridiculous</soru>
+   <cevap>gülünç, saçma</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>exclusive</soru>
+   <cevap>özel, kişiye ait</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>console</soru>
+   <cevap>teselli etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>revolve</soru>
+   <cevap>çevirmek, döndürmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>absolve</soru>
+   <cevap>temize çıkarmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>assent</soru>
+   <cevap>uzlaşmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prosecute</soru>
+   <cevap>aleyhinde dava açmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>dwell</soru>
+   <cevap>ikamet etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prey on</soru>
+   <cevap>avlamak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>chunk</soru>
+   <cevap>yığın, topak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>crush</soru>
+   <cevap>ezmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>thrash</soru>
+   <cevap>denize karşı seyir</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>windswept</soru>
+   <cevap>rüzgara açık</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>hermit</soru>
+   <cevap>insanlardan uzak yaşayan</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>wasteland</soru>
+   <cevap>çorak toprak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>barren</soru>
+   <cevap>kısır, boş kafalı</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>nomad</soru>
+   <cevap>göçebe</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>congestion</soru>
+   <cevap>tıkanıklık, izdiham</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>pedestrian</soru>
+   <cevap>yaya</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>swamp</soru>
+   <cevap>bataklık</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>attic</soru>
+   <cevap>atinalı, sade</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>upholster</soru>
+   <cevap>döşemek, donatmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>pillow</soru>
+   <cevap>yastık</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>cannibal</soru>
+   <cevap>yamyam</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>inhabitant</soru>
+   <cevap>ikamet eden kimse</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>slay</soru>
+   <cevap>katletmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>foe</soru>
+   <cevap>düşman</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>poultry</soru>
+   <cevap>kümes hayvanı</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>graze</soru>
+   <cevap>sıyırıp geçmek, otlatmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>rot</soru>
+   <cevap>çürümek</cevap>
+   <ornek/>
+  </kelime>
+ </Grup9>
+ <Grup10>
+  <kelime>
+   <soru>swarm</soru>
+   <cevap>böcek sürüsü</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>cyclone</soru>
+   <cevap>kasırga, hortum</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>blockad</soru>
+   <cevap>abluka</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>fragrance</soru>
+   <cevap>güzel koku</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>soak</soru>
+   <cevap>ıslatmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>referee</soru>
+   <cevap>hakem</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>villain</soru>
+   <cevap>hain, cani</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>wrest</soru>
+   <cevap>zorla elde etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>copper</soru>
+   <cevap>bakır</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>oven</soru>
+   <cevap>fırın</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>brew</soru>
+   <cevap>çay demlemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>steep</soru>
+   <cevap>ıslatmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>silk</soru>
+   <cevap>ipek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>respiration</soru>
+   <cevap>solunum</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>dissect</soru>
+   <cevap>parçalara ayırmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>corpse</soru>
+   <cevap>ceset</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>immobilize</soru>
+   <cevap>hareketsizleştirmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>morality</soru>
+   <cevap>ahlak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>dignity</soru>
+   <cevap>şeref, asalet</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>confront</soru>
+   <cevap>göğüs germek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>mourn</soru>
+   <cevap>yas tutmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>funeral</soru>
+   <cevap>cenaze töreni</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>avoid</soru>
+   <cevap>sakınmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>plague</soru>
+   <cevap>bela, musibet</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>tease</soru>
+   <cevap>rahat vermemek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>strain</soru>
+   <cevap>fazla germek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>superstition</soru>
+   <cevap>hurafe</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>assure</soru>
+   <cevap>temin etmek, söz vermek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>bachelor</soru>
+   <cevap>bekar erkek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>scoff</soru>
+   <cevap>alay etmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>prescribe</soru>
+   <cevap>emtretmek</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>swing</soru>
+   <cevap>sallanmak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>uniformly</soru>
+   <cevap>daima, aynı tarzda</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>postulate</soru>
+   <cevap>varsaymak</cevap>
+   <ornek/>
+  </kelime>
+  <kelime>
+   <soru>mass</soru>
+   <cevap>kütle, cisim</cevap>
+   <ornek/>
+  </kelime>
+ </Grup10>
+ <Hepsi>
+  <kelime>
+   <soru>wage</soru>
+   <cevap>(savaş,mücadele) sürdürmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>repeal</soru>
+   <cevap>feshetmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>be about to</soru>
+   <cevap>-mek üzere olmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>evolve</soru>
+   <cevap>gelişmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>look up to</soru>
+   <cevap>saygı göstermek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>compensate for</soru>
+   <cevap>telafi etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>suppress</soru>
+   <cevap>bir hareketi bastırmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>deplete</soru>
+   <cevap>tüketmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>stick by</soru>
+   <cevap>desteklemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>resign</soru>
+   <cevap>istifa etmek, çekilmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>devise</soru>
+   <cevap>keşfetmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>turn out</soru>
+   <cevap>kanıtlamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>retard</soru>
+   <cevap>geciktirmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>undergo</soru>
+   <cevap>maruz kalmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>induce</soru>
+   <cevap>ikna etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>breed</soru>
+   <cevap>sebeb olmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>entail</soru>
+   <cevap>gerektirmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>comprise</soru>
+   <cevap>-den oluşmak, oluşturmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>curb</soru>
+   <cevap>zaptetmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>exploit</soru>
+   <cevap>sömürmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>commence</soru>
+   <cevap>başlmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>commend</soru>
+   <cevap>salık vermek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>prosper</soru>
+   <cevap>zenginleşmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>prompt</soru>
+   <cevap>sebeb olmak, dakik</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>outweigh</soru>
+   <cevap>daha önemli olmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>compel</soru>
+   <cevap>zorlamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>undermine</soru>
+   <cevap>zarar vermek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>attain</soru>
+   <cevap>ulaşmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>foster</soru>
+   <cevap>beslemek, büyütmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>shrink</soru>
+   <cevap>küçülmek,daralmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>spoil</soru>
+   <cevap>bozmak,yıkmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>prevail</soru>
+   <cevap>yürürlükte olmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>ascribe</soru>
+   <cevap>atfetmek, isnat etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>retain</soru>
+   <cevap>alıkoymak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>lay off</soru>
+   <cevap>işten çıkarmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>curtail</soru>
+   <cevap>azaltmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>exert</soru>
+   <cevap>güç kullanmak, çaba sarfetmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>alleviate</soru>
+   <cevap>yatıştırmak, hafifletmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>annul</soru>
+   <cevap>feshetmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>discern</soru>
+   <cevap>idrak etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>appraise</soru>
+   <cevap>değer biçmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>aggravate</soru>
+   <cevap>kütüleştirmek, ağırlaştırmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>augment</soru>
+   <cevap>artmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>adhere</soru>
+   <cevap>yapışmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>contract</soru>
+   <cevap>küçülmek, büzülmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>dwell on/upon</soru>
+   <cevap>çok düşünmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>endorse</soru>
+   <cevap>desteklemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>sustain</soru>
+   <cevap>güçlü tutmak, devam ettirmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>pertain</soru>
+   <cevap>ile ilgili</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>exploit</soru>
+   <cevap>istismar etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>preculude</soru>
+   <cevap>engellemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>scatter</soru>
+   <cevap>dağıtmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>jeopardize</soru>
+   <cevap>tehlikeye atmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>pledge</soru>
+   <cevap>güvence vermek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>bind</soru>
+   <cevap>yasalarla bağlamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>offset</soru>
+   <cevap>dengelemek, telafi etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>extol</soru>
+   <cevap>övmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>imperil</soru>
+   <cevap>tehlikeye sokmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>admonish</soru>
+   <cevap>hafifçe azarlamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>aspire</soru>
+   <cevap>çok istemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>devour</soru>
+   <cevap>hırsla yemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>evict</soru>
+   <cevap>tahliye ettirmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>recruit</soru>
+   <cevap>işe almak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>unanimous</soru>
+   <cevap>hemfikir</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>acquaint</soru>
+   <cevap>haberdar etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>assault</soru>
+   <cevap>ani hücum</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>flactuate</soru>
+   <cevap>bir yükselip, bir azalmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>dwindle</soru>
+   <cevap>azalmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>indulge</soru>
+   <cevap>yüz vermek, şımartmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>consent</soru>
+   <cevap>razı olmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>crave</soru>
+   <cevap>çok istemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>relinguish</soru>
+   <cevap>vazgeçmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>reluctant</soru>
+   <cevap>isteksiz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>district</soru>
+   <cevap>mıntıka, bölge</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>sort</soru>
+   <cevap>çeşit</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>outsmart</soru>
+   <cevap>kurnazlıkla yenmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>range</soru>
+   <cevap>tür, çeşit</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>substance</soru>
+   <cevap>madde</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>approval</soru>
+   <cevap>uygun bulma, onaylama</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>manner</soru>
+   <cevap>davranış şekli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>swift</soru>
+   <cevap>hızlı atik</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>reputation</soru>
+   <cevap>şöhret</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>impetus</soru>
+   <cevap>yüreklendirme</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>preference</soru>
+   <cevap>öncelik hakkı</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>onset</soru>
+   <cevap>(kötü birşey için) başlangıç</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>defiance</soru>
+   <cevap>itaatsizlik</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>disobediance</soru>
+   <cevap>itaatsizlik</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>inclination</soru>
+   <cevap>eğilim</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>anguish</soru>
+   <cevap>şiddetli ıstırap</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>humidity</soru>
+   <cevap>havadaki nem</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>extent</soru>
+   <cevap>kapsam, ölçü</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>gratify</soru>
+   <cevap>sevindirmek, mutlu etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>prospect</soru>
+   <cevap>olasılık, umut</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>advent</soru>
+   <cevap>varış, geliş</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>inconceivable</soru>
+   <cevap>hayal edilemez</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>trait</soru>
+   <cevap>özellik, karakter</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>discreation</soru>
+   <cevap>sağduyu</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>haste</soru>
+   <cevap>acele, telaş</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>discrepancy</soru>
+   <cevap>uyumsuzluk</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>predicament</soru>
+   <cevap>zor durum</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>epoch</soru>
+   <cevap>çağ</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>bless</soru>
+   <cevap>kutsamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>substantiate</soru>
+   <cevap>kanıtlamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>allegation</soru>
+   <cevap>suçlama, itham</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>compromise</soru>
+   <cevap>uzlaşma</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>summit</soru>
+   <cevap>zirve, doruk</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>bold</soru>
+   <cevap>cesur</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>reciprocal</soru>
+   <cevap>karşılıklı</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>slack</soru>
+   <cevap>gevşek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>nonsencial</soru>
+   <cevap>saçma, anlamsız</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>unprecedented</soru>
+   <cevap>emsalsiz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>unequalled</soru>
+   <cevap>emsalsiz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>imperative</soru>
+   <cevap>zorunlu</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>moderate</soru>
+   <cevap>ılımlı, makul</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>compulsory</soru>
+   <cevap>zorunlu</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>haphazard</soru>
+   <cevap>plansız</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>nasty</soru>
+   <cevap>iğrenç</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>decent</soru>
+   <cevap>münasip, uygun</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>lasting</soru>
+   <cevap>kalıcı, dayanıklı</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>peculiar to</soru>
+   <cevap>özgü, mahsus</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>precise</soru>
+   <cevap>kesin, kusursuz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>apt</soru>
+   <cevap>eğilimli, yatkın</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>obsolete</soru>
+   <cevap>modası geçmiş</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>plausible</soru>
+   <cevap>inandırıcı</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>prone</soru>
+   <cevap>-e dayanıksız</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>susceptible</soru>
+   <cevap>kolay etkilenen</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>relieve</soru>
+   <cevap>acı dindirmek, hafifletmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>acute</soru>
+   <cevap>keskin, kuvvetli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>adverse</soru>
+   <cevap>karşıt, zıt</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>robust</soru>
+   <cevap>sıhhatli, güçlü</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>viable</soru>
+   <cevap>uygulanabilir</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>painstaking</soru>
+   <cevap>özenli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>impending</soru>
+   <cevap>olması yakın</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>miser</soru>
+   <cevap>cimri</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>concise</soru>
+   <cevap>kısa, özlü</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>adept</soru>
+   <cevap>becerikli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>thrilling</soru>
+   <cevap>heyecan verici</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>inherent</soru>
+   <cevap>doğasında olan</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>irrevacable</soru>
+   <cevap>değiştirilemez</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>ingenius</soru>
+   <cevap>ustaca</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>harmonious</soru>
+   <cevap>uyumlu, ahenkli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>frugal</soru>
+   <cevap>tutumlu</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>vague</soru>
+   <cevap>anlaşılmaz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>austerity</soru>
+   <cevap>azla yetinme</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>inquisitive</soru>
+   <cevap>meraklı</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>immoral</soru>
+   <cevap>ahlaksız</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>prolific</soru>
+   <cevap>verimli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>intricate</soru>
+   <cevap>karmakarışık</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>adroit</soru>
+   <cevap>yetenekli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>commensurate</soru>
+   <cevap>oranlı, eşit</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>possess</soru>
+   <cevap>sahip olmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>detrimental</soru>
+   <cevap>zarar verici</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>retreat</soru>
+   <cevap>geri çekilme</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>infallible</soru>
+   <cevap>şaşmaz, yanılmaz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>incompotent</soru>
+   <cevap>yeteneksiz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>conducive</soru>
+   <cevap>olanak sağlayan</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>adept</soru>
+   <cevap>yetenekli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>minute</soru>
+   <cevap>çok küçük</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>virtually</soru>
+   <cevap>hemen hemen</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>practically</soru>
+   <cevap>hemen hemen</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>literally</soru>
+   <cevap>kelimesi kelimesine</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>scrupulous</soru>
+   <cevap>adil, titiz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>exclusively</soru>
+   <cevap>sadece, yalnız</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>expedition</soru>
+   <cevap>yolculuk</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>ardently</soru>
+   <cevap>gayretle, şevkle</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>awkward</soru>
+   <cevap>sakar, beceriksiz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>dense</soru>
+   <cevap>sıkışık, kalabalık</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>unequivocal</soru>
+   <cevap>net, anlaşılır</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>flesh</soru>
+   <cevap>et, vücut</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>imperfect</soru>
+   <cevap>kusurlu</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>prune</soru>
+   <cevap>budamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>adopt</soru>
+   <cevap>benimsemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>unconscious</soru>
+   <cevap>bilinçsiz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>prairie</soru>
+   <cevap>ova</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>perplex</soru>
+   <cevap>kafasını karıştırmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>entice</soru>
+   <cevap>kandırmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>predispose</soru>
+   <cevap>etkilemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>enervate</soru>
+   <cevap>kuvvetten düşürmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>tempt</soru>
+   <cevap>ayartmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>repel</soru>
+   <cevap>geri püskürtmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>repulse</soru>
+   <cevap>geri çevirmek, redetmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>acquit</soru>
+   <cevap>suçsuz çıkarmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>alienate</soru>
+   <cevap>yabancılaştırmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>rebuke</soru>
+   <cevap>azarlamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>escalation</soru>
+   <cevap>artırma</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>depletion</soru>
+   <cevap>tüketme, bitirme</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>soar</soru>
+   <cevap>yükselmek(fiyat)</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>baffle</soru>
+   <cevap>şaşırtmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>nurture</soru>
+   <cevap>büyütmek, yetiştirmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>offspring</soru>
+   <cevap>çoluk çoçuk</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>inattentive</soru>
+   <cevap>dikkatsiz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>manifest</soru>
+   <cevap>ortaya koymak, göstermek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>seclude</soru>
+   <cevap>inzivaya çekmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>suffice</soru>
+   <cevap>yeterli olmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>evade</soru>
+   <cevap>kaytarmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>decline</soru>
+   <cevap>redetmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>moist</soru>
+   <cevap>rutubetli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>damp</soru>
+   <cevap>nemli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>indisputable</soru>
+   <cevap>tartışılmaz, kesin</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>devastate</soru>
+   <cevap>harap etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>adjourn</soru>
+   <cevap>ertelemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>scepticisim</soru>
+   <cevap>şüphecilik</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>notwithstanding</soru>
+   <cevap>-e rağmen</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>impediment</soru>
+   <cevap>özür, engel</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>detriment</soru>
+   <cevap>zarar, hasar</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>articulate</soru>
+   <cevap>anlaşılır</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>elude</soru>
+   <cevap>tehlikeyi atlatmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>wrath</soru>
+   <cevap>gazap, öfke</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>dispose</soru>
+   <cevap>başından atmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>apathetic</soru>
+   <cevap>duyarsız</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>indicate</soru>
+   <cevap>belirtisi olmak, göstermek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>indiffirent</soru>
+   <cevap>ilgisiz</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>bewilder</soru>
+   <cevap>şaşırtmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>amuse</soru>
+   <cevap>eğlendirmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>intimidate</soru>
+   <cevap>gözdağı vermek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>flounder</soru>
+   <cevap>bocalamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>gist</soru>
+   <cevap>ana fikir</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>hoax</soru>
+   <cevap>gırgır geçmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>strenuous</soru>
+   <cevap>yorucu</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>treacherous</soru>
+   <cevap>hain, dönek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>arduous</soru>
+   <cevap>yorucu, çetin</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>envious</soru>
+   <cevap>kıskanç</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>intrude</soru>
+   <cevap>davetsiz girmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>induce</soru>
+   <cevap>ikna etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>entice</soru>
+   <cevap>ayartmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>tacit</soru>
+   <cevap>söylenmeden anlaşılan</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>illicit</soru>
+   <cevap>yasadışı</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>recite</soru>
+   <cevap>ezberden okumak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>fraud</soru>
+   <cevap>sahtekarlık</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>penalize</soru>
+   <cevap>cezalandırmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>rejuvenate</soru>
+   <cevap>gençleştirmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>intricate</soru>
+   <cevap>karmakarışık</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>conducive</soru>
+   <cevap>olanak sağlayan</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>pertinent</soru>
+   <cevap>uygun, ilgili</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>disguise</soru>
+   <cevap>saklamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>penetrate</soru>
+   <cevap>yarmak, delip geçmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>proposal</soru>
+   <cevap>teklif</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>impediment</soru>
+   <cevap>engel</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>phenomenon</soru>
+   <cevap>olay, olgu</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>drawback</soru>
+   <cevap>dezavantaj</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>inaugurate</soru>
+   <cevap>törenle açmak, başlamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>spark off</soru>
+   <cevap>neden olmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>preclude</soru>
+   <cevap>engellemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>prudent</soru>
+   <cevap>öngörülü</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>allude</soru>
+   <cevap>ima etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>enmity</soru>
+   <cevap>husumet</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>impartial</soru>
+   <cevap>tarafsız</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>account for</soru>
+   <cevap>açıklamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>recall</soru>
+   <cevap>anımsamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>sack</soru>
+   <cevap>işten atmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>reproach</soru>
+   <cevap>sitem etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>outstanding</soru>
+   <cevap>göze çarpan</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>wheat</soru>
+   <cevap>buğday</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>profound</soru>
+   <cevap>derin, bilgili</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>fallibility</soru>
+   <cevap>yanılma payı</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>impurity</soru>
+   <cevap>kirlilik, ahlaksızlık</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>burden</soru>
+   <cevap>ağır yük, sıkıntı vermek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>aptitude</soru>
+   <cevap>doğal yetenek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>competence</soru>
+   <cevap>yetenek, beceri</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>jealous</soru>
+   <cevap>kıskanç</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>envious</soru>
+   <cevap>kıskanç</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>affair</soru>
+   <cevap>ilişki, olay</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>drowsy</soru>
+   <cevap>uykulu</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>primitive</soru>
+   <cevap>ilkel</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>dull</soru>
+   <cevap>zor anlayan, yavaş düşünen</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>incidentally</soru>
+   <cevap>aklıma gelmişken</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>regret</soru>
+   <cevap>pişman olmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>flagrant</soru>
+   <cevap>alenen yapan(kötü birşey)</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>in advance</soru>
+   <cevap>zamanından önce, peşin</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>stern</soru>
+   <cevap>haşin, pupa</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>cling</soru>
+   <cevap>yapışmak, bırakmamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>expedition</soru>
+   <cevap>yolculuk, sefer</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>messy</soru>
+   <cevap>dağınık</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>affection</soru>
+   <cevap>sevgi, düşkünlük</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>infuriate</soru>
+   <cevap>çileden çıkarmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>irreparable</soru>
+   <cevap>telafisi olanaksız</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>subsidiary</soru>
+   <cevap>şube</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>brood</soru>
+   <cevap>kuluçkaya yatmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>brood over/about</soru>
+   <cevap>kara kara düşünmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>perilous</soru>
+   <cevap>tehlikeli, riskli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>drastic</soru>
+   <cevap>güçlü, şiddetli</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>comprehensive</soru>
+   <cevap>geniş, ayrıntılı</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>reproach</soru>
+   <cevap>kınama, suçlama</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>intelligible</soru>
+   <cevap>anlaşılabilir, açık</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>pungent</soru>
+   <cevap>keskin kokulu</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>ridiculous</soru>
+   <cevap>gülünç, saçma</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>exclusive</soru>
+   <cevap>özel, kişiye ait</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>console</soru>
+   <cevap>teselli etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>revolve</soru>
+   <cevap>çevirmek, döndürmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>absolve</soru>
+   <cevap>temize çıkarmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>assent</soru>
+   <cevap>uzlaşmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>presecute</soru>
+   <cevap>aleyhinde dava açmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>dwell</soru>
+   <cevap>ikamet etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>prey on</soru>
+   <cevap>avlamak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>chunk</soru>
+   <cevap>yığın, topak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>crush</soru>
+   <cevap>ezmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>thrash</soru>
+   <cevap>denize karşı seyir</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>windswept</soru>
+   <cevap>rüzgara açık</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>hermit</soru>
+   <cevap>insanlardan uzak yaşayan</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>wasteland</soru>
+   <cevap>çorak toprak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>barren</soru>
+   <cevap>kısır, boş kafalı</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>nomad</soru>
+   <cevap>göçebe</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>congestion</soru>
+   <cevap>tıkanıklık, izdiham</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>pedestrian</soru>
+   <cevap>yaya</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>swamp</soru>
+   <cevap>bataklık</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>attic</soru>
+   <cevap>atinalı, sade</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>upholster</soru>
+   <cevap>döşemek, donatmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>pillow</soru>
+   <cevap>yastık</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>cannibal</soru>
+   <cevap>yamyam</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>inhabitant</soru>
+   <cevap>ikamet eden kimse</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>slay</soru>
+   <cevap>katletmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>foe</soru>
+   <cevap>düşman</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>poultry</soru>
+   <cevap>kümes hayvanı</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>graze</soru>
+   <cevap>sıyırıp geçmek, otlatmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>rot</soru>
+   <cevap>çürümek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>swarm</soru>
+   <cevap>böcek sürüsü</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>cyclone</soru>
+   <cevap>kasırga, hortum</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>blockad</soru>
+   <cevap>abluka</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>fragrance</soru>
+   <cevap>güzel koku</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>soak</soru>
+   <cevap>ıslatmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>referee</soru>
+   <cevap>hakem</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>villain</soru>
+   <cevap>hain, cani</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>wrest</soru>
+   <cevap>zorla elde etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>copper</soru>
+   <cevap>bakır</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>oven</soru>
+   <cevap>fırın</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>brew</soru>
+   <cevap>çay demlemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>steep</soru>
+   <cevap>ıslatmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>silk</soru>
+   <cevap>ipek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>respiration</soru>
+   <cevap>solunum</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>dissect</soru>
+   <cevap>parçalara ayırmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>corpse</soru>
+   <cevap>ceset</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>immobilize</soru>
+   <cevap>hareketsizleştirmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>morality</soru>
+   <cevap>ahlak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>dignity</soru>
+   <cevap>şeref, asalet</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>confront</soru>
+   <cevap>göğüs germek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>mourn</soru>
+   <cevap>yas tutmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>funeral</soru>
+   <cevap>cenaze töreni</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>avoid</soru>
+   <cevap>sakınmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>plague</soru>
+   <cevap>bela, musibet</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>tease</soru>
+   <cevap>rahat vermemek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>strain</soru>
+   <cevap>fazla germek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>superstition</soru>
+   <cevap>hurafe</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>assure</soru>
+   <cevap>temin etmek, söz vermek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>bachelor</soru>
+   <cevap>bekar erkek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>scoff</soru>
+   <cevap>alay etmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>prescribe</soru>
+   <cevap>emtretmek</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>swing</soru>
+   <cevap>sallanmak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>uniformly</soru>
+   <cevap>daima, aynı tarzda</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>postulate</soru>
+   <cevap>varsaymak</cevap>
+   <ornek></ornek>
+  </kelime>
+  <kelime>
+   <soru>mass</soru>
+   <cevap>kütle, cisim</cevap>
+   <ornek></ornek>
+  </kelime>
+ </Hepsi>
+</DATAROOT>

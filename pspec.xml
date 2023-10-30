@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<!DOCTYPE PISI SYSTEM "http://www.pardus.org.tr/projeler/pisi/pisi-spec.dtd">
+<PISI>
+    <Source>
+        <Name>imtihan</Name>
+        <Homepage>http://code.google.com/u/dogangolcuk</Homepage>
+        <Packager>
+            <Name>dogangolcuk</Name>
+            <Email>dogangolcuk@gmail.com</Email>
+        </Packager>
+        <License>GPL-2</License>
+        <IsA>app:gui</IsA>
+        <PartOf>applications.office</PartOf>
+        <Summary>Kpds için Kelime Ezber , Test programı</Summary>
+        <Description>Çoktan seçmeli test uygulaması.Kpds için kelime öğrenme programı.İsteğinize göre veri dosyası oluşturup farklı amaçlar için kullanabilirsiniz(genel kültür,tarih gibi.).</Description>
+	<Archive sha1sum="4c499d7163ad3c839f02c97198ed3a6d3c870f74" type="targz">http://imtihan.googlecode.com/files/imtihan-1.7.tar.gz</Archive>
+    </Source> 
+    <Package>
+        <Name>imtihan</Name>
+        <RuntimeDependencies>
+            <Dependency>qt</Dependency>
+        </RuntimeDependencies>
+        <Files>
+            <Path fileType="executable">/usr/bin</Path>
+            <Path fileType="data">/usr/share</Path>
+        </Files>
+        <AdditionalFiles>
+            <AdditionalFile owner="root" permission="0644" target="/usr/share/applications/imtihan.desktop">imtihan.desktop</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/kpds.imt">kpds.imt</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/T.imt">T.imt</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/S.imt">S.imt</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/U.imt">U.imt</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/V.imt">V.imt</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/W.imt">W.imt</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/Kelimeler1.imt">Kelimeler1.imt</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/Kelimeler2.imt">Kelimeler2.imt</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/Kelimeler3.imt">Kelimeler3.imt</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/Kelimeler4.imt">Kelimeler4.imt</AdditionalFile>
+	    <AdditionalFile  target="/usr/share/imtihan/Kelimeler5.imt">Kelimeler5.imt</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/Kelimeler-1-5.imt">Kelimeler-1-5.imt</AdditionalFile>
+            <AdditionalFile  target="/usr/share/imtihan/Muhtelif.imt">Muhtelif.imt</AdditionalFile>
+	    <AdditionalFile  target="/usr/share/imtihan/Kelimeler_Kaynak.tar.gz">Kelimeler_Kaynak.tar.gz</AdditionalFile>
+        </AdditionalFiles>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2011-02-17</Date>
+            <Version>1.7</Version>
+            <Comment>First Release</Comment>
+            <Name>dogangolcuk</Name>
+            <Email>dogangolcuk@gmail.com</Email>
+        </Update> 
+    </History>
+</PISI>

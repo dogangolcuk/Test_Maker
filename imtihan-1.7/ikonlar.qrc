@@ -1,0 +1,26 @@
+<RCC>
+  <qresource prefix="/ikonlar" >
+    <file>ikonlar/player_rew.png</file>
+    <file>ikonlar/1rightarrow.png</file>
+    <file>ikonlar/agt_print.png</file>
+    <file>ikonlar/agt_stop.png</file>
+    <file>ikonlar/agt_support.png</file>
+    <file>ikonlar/agt_update-product.png</file>
+    <file>ikonlar/apply.png</file>
+    <file>ikonlar/button_cancel.png</file>
+    <file>ikonlar/cnr-pending.png</file>
+    <file>ikonlar/easymoblog.png</file>
+    <file>ikonlar/exit.png</file>
+    <file>ikonlar/filequickprint.png</file>
+    <file>ikonlar/find.png</file>
+    <file>ikonlar/flag.png</file>
+    <file>ikonlar/folder_blue.png</file>
+    <file>ikonlar/iceaktar.png</file>
+    <file>ikonlar/info.png</file>
+    <file>ikonlar/kartmodu.png</file>
+    <file>ikonlar/kartmodu2.png</file>
+    <file>ikonlar/launch.png</file>
+    <file>ikonlar/lock.png</file>
+    <file>ikonlar/users.png</file>
+  </qresource>
+</RCC>

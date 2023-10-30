@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>f_user</class>
+ <widget class="QDialog" name="f_user">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>295</width>
+    <height>230</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="windowTitle">
+   <string>Kullanıcı Ekle/Çıkar/Yedekle</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>../../../../../../usr/kde/3.5/share/icons/crystalsvg/32x32/actions/edit_user.png</normaloff>../../../../../../usr/kde/3.5/share/icons/crystalsvg/32x32/actions/edit_user.png</iconset>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0" colspan="6">
+    <widget class="QListWidget" name="lwUserList">
+     <property name="toolTip">
+      <string>Kullanıcılar</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QLabel" name="label">
+     <property name="text">
+      <string>Kullanıcı</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="1">
+    <widget class="QLineEdit" name="lEUser">
+     <property name="toolTip">
+      <string>Eklenecek kullanıcı ismini giriniz.</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="2">
+    <widget class="QToolButton" name="tBAdd">
+     <property name="toolTip">
+      <string>Ekle</string>
+     </property>
+     <property name="text">
+      <string>...</string>
+     </property>
+     <property name="icon">
+      <iconset resource="ikonlar.qrc">
+       <normaloff>:/ikonlar/ikonlar/apply.png</normaloff>:/ikonlar/ikonlar/apply.png</iconset>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="3">
+    <widget class="QToolButton" name="tBDel">
+     <property name="toolTip">
+      <string>Sil</string>
+     </property>
+     <property name="text">
+      <string>...</string>
+     </property>
+     <property name="icon">
+      <iconset resource="ikonlar.qrc">
+       <normaloff>:/ikonlar/ikonlar/button_cancel.png</normaloff>:/ikonlar/ikonlar/button_cancel.png</iconset>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="4">
+    <widget class="QToolButton" name="tbBackup">
+     <property name="toolTip">
+      <string>Yedekle</string>
+     </property>
+     <property name="text">
+      <string>...</string>
+     </property>
+     <property name="icon">
+      <iconset resource="ikonlar.qrc">
+       <normaloff>:/ikonlar/ikonlar/easymoblog.png</normaloff>:/ikonlar/ikonlar/easymoblog.png</iconset>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="5">
+    <widget class="QToolButton" name="tbGeriYukle">
+     <property name="toolTip">
+      <string>Geri Yükle</string>
+     </property>
+     <property name="text">
+      <string>...</string>
+     </property>
+     <property name="icon">
+      <iconset resource="ikonlar.qrc">
+       <normaloff>:/ikonlar/ikonlar/kartmodu2.png</normaloff>:/ikonlar/ikonlar/kartmodu2.png</iconset>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="ikonlar.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>lwUserList</sender>
+   <signal>currentTextChanged(QString)</signal>
+   <receiver>lEUser</receiver>
+   <slot>setText(QString)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>147</x>
+     <y>99</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>113</x>
+     <y>212</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>
